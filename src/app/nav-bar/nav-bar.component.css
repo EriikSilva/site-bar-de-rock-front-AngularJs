@@ -1,0 +1,21 @@
+/* Espaço entre os botões da navbar */
+.spacer{
+    flex: 1 1 auto;
+}
+
+.cor-nav{
+    background: linear-gradient(#F68F00, #232323);
+}
+
+.cor-icones{
+    color: black;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+mat-toolbar{
+   background:black;
+}

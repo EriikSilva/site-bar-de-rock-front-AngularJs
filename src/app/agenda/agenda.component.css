@@ -1,0 +1,57 @@
+.layout-agenda{
+    display: flex;
+    margin: 0 auto;
+}
+
+.imagem-layout{
+   
+    width: 800px;
+    height: 420px;
+}
+
+h1{
+    color: #b8b8b8;
+}
+
+.agenda-descricao{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+
+.agenda-descricao h1,h2{
+    flex-direction: column;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+li{
+    list-style: none;
+    margin-top: 16px;
+}
+
+.descricao{
+    padding: 28px;
+    background: linear-gradient(#232323, #ffff);
+    margin-top: 16px;
+    text-align: center;
+    font-size: 24px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+
+
+.imagem-banda{
+    width: 80px;
+    vertical-align: middle;
+}
+
+
+.espacador{
+    margin-top: 300px;
+}
+
+mat-tab-group{
+    color: white;
+}
+

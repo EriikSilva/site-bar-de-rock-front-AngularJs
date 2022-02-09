@@ -1,0 +1,20 @@
+.content{
+    padding: 16px;
+    
+}
+.example-card{
+    margin-bottom: 32px;
+}
+
+.espacador{
+    margin-top: 62px;
+}
+.container-cardapio{
+    margin-bottom: 600px;
+}
+
+mat-card{
+    width: 300px;
+    margin-right: 12px;
+    
+}
