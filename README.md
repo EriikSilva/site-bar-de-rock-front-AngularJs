@@ -1,10 +1,10 @@
 # Projeto frontend baseado em bar de rock 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+Para rodar o projeto basta abrir o terminal com a pasta selecionada e startar com npm start ou ng serve
 
 ##Pagina Principal
+![image](https://user-images.githubusercontent.com/61124602/153544493-aa92ea73-a20f-49f1-9495-523901a4ab10.png)
 
-![image](https://user-images.githubusercontent.com/61124602/153544149-e9a9dcc4-d7b3-48c4-aabf-e47619fa3648.png)
 
 Obs: a imagem é apenas para uso didatico
 
